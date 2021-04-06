@@ -1,0 +1,67 @@
+A.SREE TEJA
+
+Mobile: +91 7801019735
+Email id: sreeteja70@gmail.com
+Hyderabad
+
+CAREER OBJECTIVE
+To work for an organisation to pursue a highly rewarding career where I can utilize my skills and knowledge efficiently & enhance them for the organizational growth.
+
+
+EDUCATIONAL QUALIFICATION
+	B.Tech Computer Science Engineering (2015-2019) with 69.54%, Keshav Memorial Institute of Technology ,JNTU
+	XII M.P.C with 91.7%, NRI junior college (2012-2014) , Hyderabad-BIE
+	X Board with 9.5 CGPA, Narayana Concept School (2012), Hyderabad-SSC
+
+
+TECHNICAL KNOWLEDGE
+	Languages: C, Java SE 8, Python (Beginner)
+	Frameworks: Spring, Spring boot, MVC, Kafka, OAuth 2 , Web services, Servlets, EWS
+	Database : MariaDB, Mysql, MongoDB
+	Tools & IDE’s : GIT, Bitbucket, SVN , Jenkins , Openshift 3,Sonar,Nexus Iq, Fortify,
+                                JIRA, Confluence, Soap UI, Postman , HeidiSql , Robo 3T, JMeter, 
+                                IntelliJ, Eclipse, STS.
+
+
+WORK EXPERIENCE:
+	Application Developer at DBS Asia hub2 ( Jul’19 to present ):    
+•	Experience in designing and developing Enterprise Level Applications.
+•	Worked on developing Rest microservices using Spring boot.
+•	Experience in integrating backend rest services with frontend technologies like Angular, React JS.
+•	Experience in creating CI/CD pipelines and deployments of the applications using Jenkins.
+•	Experience in development methodologies like Scrum,Agile,Kanban.
+
+	Mobile Application Developer at Kony Professional Services ( Jun’18 to Jun’19 ):    
+•	Experience in designing and developing mobile applications using Kony visualizer platform.
+•	Worked on middleware integration using mobile fabric.
+•	Experience in Agile development methodology
+
+
+CERTIFICATIONS & ACHIEVEMENTS
+	Oracle Certified Associate, Java SE 8 Programmer(2017)
+	Selected for “Amazon Campus Mentorship Series(ACMS)” (2018)
+	Secure Code Warrior Certified “AppSec Bronze titan” (2020)
+
+
+
+PROJECT DETAILS
+	SCHEDULERX :
+•	Desciption : Developed a service to enable and support scheduling tasks. This service is used to trigger rest api’s at the defined intervals as per the cron expression.
+•	Spring boot and Quartz framework are used in developing the scheduler.
+
+	UTILX_AUTHENTICATOR :
+•	Descipton : Developed a service to authenticate LDAP users.
+•	Authenticated users based on the registered LDAP roles. Scaled the application to support user authentication for multiple projects. 
+•	This is a OAuth token based authentication.
+•	Used Spring boot and Oauth2 technologies . This is like a SSO to access multiple services.
+	S3 SYNC :
+•	Desciption : Developed a springboot service which is integrated with AWS S3 . This service is connected to multiple S3 buckets to transfer files from one S3 bucket to another.
+•	This service is deployed on a Production VM server.
+•	This service is a scheduled process used to transfer data from Prod S3 bucket to UAT S3 bucket.
+	MAILX:
+•	Description : This project is based on microservice architecture. Developed multiple microservices to support fetching emails of registered mailboxes from outlook and routing the email content based on rules and actions.
+•	Exchange Webservices(EWS) framework is used along with Spring boot to pool emails from On Premise and OnCloud mailboxes.
+•	A rule Engine is developed based on which respective actions are performed.
+•	A Kafka producer service is developed to publish the fetched email content to respective pipelines based on user configuration.
+
+
